@@ -1,0 +1,17 @@
+TourMode = 0
+CandidatesCount = 16
+BatchCount = 1000
+SwitchCount = 10
+HideCards = 1
+HideDeckCards = 1
+HideDumpCards = 1
+SaveCompiled = 1
+CompressedJson = 1
+AnimationScale = 100
+AttackCountCheck = 1
+AttackTotalCheck = 1
+TourBatchCount = 100
+DepthOfFinal = 0
+ShowSurnames = 1
+BarAnimFetch = 6
+View3d = 0
